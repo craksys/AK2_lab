@@ -1,6 +1,5 @@
-# AK2_lab
+# Pliki źródłowe zawierające rozwiązania zadań z labolatorów
 
-Pliki źródłowe zawierające rozwiązania zadań z Architektury Komputerów 2 (AK2).
+Prowadzący: T.S. (Architektura Komputerów 2 AK2)
 
 
-Prowadzący S.T.
